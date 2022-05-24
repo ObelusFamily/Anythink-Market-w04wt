@@ -11,4 +11,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 1. Install Docker
-2. Run docker-compose up from root directory
+2. Run `docker-compose up` from root directory
